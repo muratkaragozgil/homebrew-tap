@@ -1,6 +1,6 @@
 cask "andoncord" do
-  version "0.2.0"
-  sha256 "eb692a07953cc6357d6aeabe9a6282389dec5dc19e0f90c501a20b286c14a995"
+  version "0.3.0"
+  sha256 "b63b84af50626226353c7944a1f8fcd4eb38454a2780745f30c11583e9b400a5"
 
   url "https://github.com/muratkaragozgil/andoncord/releases/download/v#{version}/AndonCord.dmg"
   name "AndonCord"
